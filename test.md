@@ -12,7 +12,7 @@
    - 답
    ```bash
    git add .
-   git commit -m " "
+   git commit -m "commit message"
    git log --oneline
    ```
 
