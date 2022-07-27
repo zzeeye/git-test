@@ -20,10 +20,11 @@
 ![image](https://user-images.githubusercontent.com/98133984/181182281-4d01a374-62fe-4957-9a07-1efc005e35d3.png)
    - 답
    ```
-
+	git config --global list
+	계정을 확인해보고 승인된 계정인지 체크한다 
    ```
 5. clone과 pull의 차이는 무엇인가요?
-   - 답 :
+   - 답 : clone은 커밋내역을 모두 가져오는 것, pull은 변경된 내용만 가져오는 것 
    
 6. branch를 만드는 목적은 무엇인가요?
     - 답 : 
